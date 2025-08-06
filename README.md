@@ -2,6 +2,10 @@
 
 This project presents a comprehensive Excel-based dashboard focused on analyzing dividend trends, financial performance, and 5-year returns of publicly listed Indian companies.
 
+🖼️ Excel Dashboard Preview
+
+https://github.com/Saishree17/StockMarketAnalysis_ExcelDashboard/blob/main/dashboard-screenshot.png
+
 📁 Project Files
 
 - Excel File: `SaishreeT_StockMarketAnalysis_ExcelDashboardProject.xlsx`
